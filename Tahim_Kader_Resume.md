@@ -1,20 +1,19 @@
-
-<p style="text-align: center;">**Tahim M. Kader**</p>
+**Tahim M. Kader**
 
 **LinkedIn**: linkedin.com/in/tahimkader | **Email**: tahim.kader@gmail.com | **Github**: github.com/tkaderr | **Personal**: tahimk.com | **Cell**: 408-427-7500
 
 **PRODUCT MANAGER**
-
+---
 Experienced business and technology professional with almost 5 years of demonstrated experience in product management, software development, and data analytics. Confident individual who can interact with professionals at all levels, ranging from Analysts to CEO. Recently completed an intensive coding boot camp, spending over 1000 hours in mobile and full stack development to further technical expertise as a Product Manager or Technical Program Manager. 
 
 **EDUCATION**
-
+---
 **University of California Berkeley**
 
 Bachelor of Science, Bioengineering 2012 
 
 **TECHNICAL SKILL SETS**
-
+---
 - **Languages:** JavaScript, Swift iOS, Python, SQL, C, MATLAB, Perl
 - **Front End:** HTML, CSS, Bootstrap, JQuery, Angular, React, Redux
 - **Back End:** Django, Flask, Node.js, Express.js, Socket.IO, REST, OAuth
@@ -22,7 +21,7 @@ Bachelor of Science, Bioengineering 2012 
 - **Other:** Hadoop, Apache Spark, Elasticsearch, Balsamiq, Google Analytics, Looker, Excel, Woopra, Iterable, Trello, Microsoft Office
 
 **WORK EXPERIENCE**
-
+---
 **Software Developer Teaching Assistant and Student – Coding Dojo  March 2017 - Present**
 - Completed an immersive web and mobile development boot camp that focused on web fundamentals and three full stacks: Python, MEAN, and Swift. Earned over 1500 hours of coding experience, including the ability to deploy mobile and full websites from client to server to database
 - Aided students in topics and assignments ranging from HTML, CSS, JavaScript, and MEAN so that they could complete their goals daily
