@@ -22,7 +22,7 @@ Bachelor of Science, Bioengineering 2012 
 
 **WORK EXPERIENCE**
 ---
-**Software Developer Teaching Assistant and Student – Coding Dojo  March 2017 - Present**
+**Software Developer Teaching Assistant and Student – Coding Dojo                    March 2017 - Present**
 - Completed an immersive web and mobile development boot camp that focused on web fundamentals and three full stacks: Python, MEAN, and Swift. Earned over 1500 hours of coding experience, including the ability to deploy mobile and full websites from client to server to database
 - Aided students in topics and assignments ranging from HTML, CSS, JavaScript, and MEAN so that they could complete their goals daily
 - Tutored students who were struggling with coding algorithms to become more familiar with data structures and overall problem solver
