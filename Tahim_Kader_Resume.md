@@ -1,8 +1,9 @@
 <h1 align= center>Tahim M. Kader</h1>
 
-<section font=10px>
+
 **LinkedIn**: linkedin.com/in/tahimkader | **Email**: tahim.kader@gmail.com | **Github**: github.com/tkaderr | **Personal**: tahimk.com | **Cell**: 408-427-7500
-</section>
+
+
 **PRODUCT MANAGER**
 ---
 Experienced business and technology professional with almost 5 years of demonstrated experience in product management, software development, and data analytics. Confident individual who can interact with professionals at all levels, ranging from Analysts to CEO. Recently completed an intensive coding boot camp, spending over 1000 hours in mobile and full stack development to further technical expertise as a Product Manager or Technical Program Manager. 
