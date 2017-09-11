@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Tahim M. Kader</h1>
+<h1 align= center>Tahim M. Kader</h1>
 
 **LinkedIn**: linkedin.com/in/tahimkader | **Email**: tahim.kader@gmail.com | **Github**: github.com/tkaderr | **Personal**: tahimk.com | **Cell**: 408-427-7500
 
