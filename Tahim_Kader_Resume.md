@@ -22,6 +22,23 @@ Bachelor of Science, Bioengineering 2012 
 - **Databases:** MySQL, Oracle, MongoDB, PostgreSQL
 - **Other:** Hadoop, Apache Spark, Elasticsearch, Balsamiq, Google Analytics, Looker, Excel, Woopra, Iterable, Trello, Microsoft Office
 
+**PROJECTS**
+---
+**Super Asteroid Frenzy <https://itunes.apple.com/app/id1244314875>**
+- Super Asteroid Frenzy is an IOS mobile game where the user controls a spaceship that shoots on-coming asteroids
+- Created whole application from start to finish
+- Technologies: iOS, Swift, Spritekit, XCode, AVFoundation
+
+**Daily Discussion <https://dailydiscuss.herokuapp.com>**                     
+- Daily Discussion is web application that allows users to login, watch YouTube videos, and create live chat messages
+- Collaborated and led initiative on the login page, OAuth, and helped setting up back end server file
+- Technologies: JavaScript, JSX, React, Redux, OAuth, Bootstrap, Node.js, Express.js, Socket.IO, API, MySQL
+
+**Rental App <our-things.herokuapp.com >**
+- Rental App is a web application that allows users to post and rent products
+- Created the user dashboard that showed all user’s posted products and products being rented
+- Technologies: Python, Django, JQuery, HTML, CSS, Bootstrap, SQLite
+
 **WORK EXPERIENCE**
 ---
 **Software Developer Teaching Assistant and Student – Coding Dojo                    March 2017 - Present**
