@@ -14,6 +14,8 @@ Experienced business and technology professional with almost 5 years of demonstr
 
 Bachelor of Science, Bioengineering 2012 
 
+**Certificate of Completion, Coding Dojo, 2017**
+
 **TECHNICAL SKILL SETS**
 ---
 - **Languages:** JavaScript, Swift iOS, Python, SQL, C, MATLAB, Perl
